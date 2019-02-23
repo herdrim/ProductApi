@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coffee_mug_test", "Coffee_mug_test\Coffee_mug_test.csproj", "{2C98A7CD-A232-4ABF-9FD0-C17E5049367B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C98A7CD-A232-4ABF-9FD0-C17E5049367B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C98A7CD-A232-4ABF-9FD0-C17E5049367B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C98A7CD-A232-4ABF-9FD0-C17E5049367B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C98A7CD-A232-4ABF-9FD0-C17E5049367B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70BE9BCE-A143-47E0-AF9A-93E9D83A2B13}
+	EndGlobalSection
+EndGlobal
